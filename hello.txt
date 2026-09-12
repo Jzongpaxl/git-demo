@@ -1,3 +1,1 @@
-Hello Git！
-Git is fun!
-this is test branch
+test说的话
